@@ -23,3 +23,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarahmod&show_icons=true&locale=en&layout=compact" alt="shahriarahmod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarahmod&" alt="shahriarahmod" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriarahmod)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarahmod)  
+
