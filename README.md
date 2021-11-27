@@ -24,6 +24,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarahmod&" alt="shahriarahmod" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyarahmod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriarahmod)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarahmod)  
