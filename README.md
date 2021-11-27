@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarahmod&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarahmod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriarahmod" alt="shahriarahmod" /></a> </p>
-
 - 🌱 I’m currently learning **Js,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahriarAhmod](https://github.com/ShahriarAhmod)
