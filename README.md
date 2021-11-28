@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahriar</h1>
 <h3 align="center">Junior Web Developer(MERN)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarahmod&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarahmod" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarahmod&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarahmod" /> </p>
 
 - 🌱 I’m currently learning **Js,React**
 
