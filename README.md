@@ -6,7 +6,7 @@
 <a href="">
     <img src="https://komarev.com/ghpvc/?username=shahriarahmod">
 </a>
-<a href="https://github.com/shahriarahmod?tab=followers"><img src="https://img.shields.io/github/followers/rashidulrony?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shahriarahmod?tab=followers"><img src="https://img.shields.io/github/followers/shahriarahmod?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently learning **Js,React**
 
