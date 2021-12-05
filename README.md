@@ -42,5 +42,5 @@
 <br/>
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarahmod)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarahmod&theme=black)  
 
