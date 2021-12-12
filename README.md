@@ -15,7 +15,11 @@
 
 - 💬 Ask me about **HTMl5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 - 📫 How to reach me **shahriar.ahmod23@gmail.com**
+
+- ⚡ Fun fact **I play games and cycling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
