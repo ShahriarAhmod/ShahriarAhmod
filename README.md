@@ -44,3 +44,5 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarahmod)  
 
+<a href="https://github.com/ShahriarAhmod/github-readme-activity-graph"><img alt="Shahriar Ahmod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahriarAhmod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
