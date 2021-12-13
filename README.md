@@ -2,7 +2,7 @@
 <h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahriar Ahmod </h1>
 <h3 align="center">Junior Web Developer(MERN)</h3>
 
-## Views and Folloright
+## Views and Followers
 
 <a href="">
     <img src="https://komarev.com/ghpvc/?username=shahriarahmod">
