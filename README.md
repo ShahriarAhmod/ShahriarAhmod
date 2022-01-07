@@ -50,10 +50,3 @@
 <br/>
  
 <a href="https://github.com/ShahriarAhmod/github-readme-activity-graph"><img alt="Shahriar Ahmod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahriarAhmod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
-...
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarahmod&show_icons=true&locale=en&layout=compact" alt="shahriarahmod" /></p>
