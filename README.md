@@ -4,6 +4,8 @@
 
 ## Views and Followers
 
+![Profile views](https://gpvc.arturio.dev/ShahriarAhmod)  
+
 <a href="">
     <img src="https://komarev.com/ghpvc/?username=shahriarahmod">
 </a>
