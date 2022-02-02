@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahriarAhmod](https://github.com/ShahriarAhmod)
 
-- 💬 Ask me about **HTMl5,CSS3,BOOTSTRAP,TAILWIND,JS.**
+- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
