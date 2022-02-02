@@ -17,6 +17,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+
 - 📫 How to reach me **shahriar.ahmod23@gmail.com**
 
 - ⚡ Fun fact **I play games and cycling.**
