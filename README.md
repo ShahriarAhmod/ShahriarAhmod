@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-
 - 📫 How to reach me **shahriar.ahmod23@gmail.com**
 
 - ⚡ Fun fact **I play games and cycling.**
+
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
