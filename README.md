@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I play games and cycling.**
 
--   :computer: &emsp;Most used line of code `console.log("hello world!")` 
+-   :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
