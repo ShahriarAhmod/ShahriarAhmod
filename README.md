@@ -48,9 +48,7 @@
 
   <br/>
   <p align="center">
-    <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-   <a href=""><img alt="shahriarahmod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarahmod&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
  <!-- <p align="center">
   <a href=""><img alt="shahriarahmod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarahmod&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
