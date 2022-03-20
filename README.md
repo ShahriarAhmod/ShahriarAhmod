@@ -4,10 +4,12 @@
 
 ## Views and Followers
 
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=shahriarahmod">
-</a>
-<a href="https://github.com/shahriarahmod?tab=followers"><img src="https://img.shields.io/github/followers/shahriarahmod?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/ShahriarAhmod" alt="P𝚛𝚘𝚏𝚒𝚕𝚎 V𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 F𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/ShahriarAhmod?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 - 🌱 I’m currently learning **Js,React**
 
