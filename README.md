@@ -8,7 +8,7 @@
 ## Views and Followers
 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> • 
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ShahriarAhmodstyle=flat&color=brightgreen"> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 F𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ShahriarAhmod?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/ShahriarAhmod?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
