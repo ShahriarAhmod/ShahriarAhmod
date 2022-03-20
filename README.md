@@ -1,4 +1,4 @@
-,!-- <a href="#"><img align="right" width="50%" height="300px" src="image.gif"/></a> -->
+<!-- <a href="#"><img align="right" width="50%" height="300px" src="image.gif"/></a> -->
 <a target="_blank">
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
 </a>
