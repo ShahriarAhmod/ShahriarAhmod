@@ -65,5 +65,5 @@
   <p align="center">
 <!--     <img src="https://img.shields.io/github/followers/ShahriarAhmod?label=Follow&style=social" border="0" title="free hit counter" alt="free hit counter" />
     <img src="https://gpvc.arturio.dev/wapborhan" border="0" title="free hit counter" alt="free hit counter" /> -->
-    <a href="https://wakatime.com/@ShahriarAhmod"> <img src="https://wakatime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
+    <a href="https://waketime.com/@ShahriarAhmod"> <img src="https://waketime.com/badge/user/59d9f170-5e15-4b6c-8acd-f8cd5d8bb365.svg" border="0" title="free hit counter" alt="free hit counter" /></a>
 </p>
