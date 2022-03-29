@@ -47,10 +47,6 @@
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
-  
-  <br/>
   
  <p align="center">
     <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
@@ -62,14 +58,7 @@
      </br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-</br>
-<br/>
- 
+
 <a href="https://github.com/ShahriarAhmod/github-readme-activity-graph"><img alt="Shahriar Ahmod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahriarAhmod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
- ...
- <a href="https://github.com/ShahriarAhmod">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahriarAhmod&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  
-  </a>
  
