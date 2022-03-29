@@ -53,7 +53,6 @@
  <p align="center">
     <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
-  <br/>
   <p align="center">
     <a href="https://github.com/ShahriarAhmod">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarAhmod&text_color=FFFFFF&bg_color=000000&title_color=0D11174&langs_count=15&layout=compact&hide_border=true" />
