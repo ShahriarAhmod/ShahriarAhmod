@@ -55,6 +55,7 @@
     <a href="https://github.com/ShahriarAhmod">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarAhmod&text_color=FFFFFF&bg_color=000000&title_color=0D11174&langs_count=15&layout=compact&hide_border=true" />
   </a>
+  </br>
      </br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
