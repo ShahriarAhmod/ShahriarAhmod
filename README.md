@@ -58,7 +58,7 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarAhmod&text_color=&bg_color=000000&title_color=0D11174&langs_count=15&layout=compact&hide_border=true" />
   </a>
      </br>
-  <a href=""><img alt="shahriarahmod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarahmod&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <a href=""><img alt="shahriarahmod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarahmod&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
