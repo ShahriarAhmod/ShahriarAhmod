@@ -51,7 +51,7 @@
   
   
  <p align="center">
-    <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a></p>
   <br/>
   <p align="center">
     <a href="https://github.com/ShahriarAhmod">
