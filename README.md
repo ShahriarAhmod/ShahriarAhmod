@@ -3,9 +3,9 @@
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
 </a> -->
  <a  align="left" target="_blank">
-  <img align="right" height="280" width="300" alt="GIF" src="dev-monkey.gif">
+  <img align="right" height="280" width="400" alt="GIF" src="dev-monkey.gif">
 </a>
-<p  align="right">
+<p align="right">
 <h1 color="red" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahriar Ahmod </h1>
 <h3 align="center">Junior Web Developer(MERN)</h3> </p>
  
