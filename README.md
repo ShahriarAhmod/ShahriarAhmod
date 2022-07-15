@@ -38,6 +38,8 @@
 
 -  :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
+- 📝 [Resume](https://drive.google.com/file/d/1ahw3RgHRkzpcuQfTh0Klaikd7e4NGl0v/view?usp=sharing)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shahriar-ahmod-90751a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar-ahmod-90751a216/" height="30" width="40" /></a>
