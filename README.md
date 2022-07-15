@@ -28,19 +28,19 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
-
 - 📫 How to reach me **shahriar.ahmod23@gmail.com**
 
 - 🔭 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [Here](https://github.com/ShahriarAhmod/ShahriarAhmod/issues/new) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
-- ⚡ Fun fact **I play games and cycling.**
+- 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
+
+- ⚡ Fun fact **I love to learn new.**
 
 -  :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
 - 📝 [Resume](https://drive.google.com/file/d/1ahw3RgHRkzpcuQfTh0Klaikd7e4NGl0v/view?usp=sharing) || [CV](https://drive.google.com/file/d/1v7bKDlumfguZHD0UWev7KrsbuNZn9R0c/view?usp=sharing)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shahriar-ahmod-90751a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar-ahmod-90751a216/" height="30" width="40" /></a>
 <a href="https://fb.com/snakeeyes969/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/snakeeyes969/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/shahriar-ahmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shahriar-ahmod" height="30" width="40" /></a> <a href="https://codesandbox.com/shahriarahmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shahriarahmod" height="30" width="40" /></a> <a href="https://discord.gg/y6Kqqpet" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="https://discord.gg/3P93sUFh" height="30" width="40" /></a> <a href="https://reddit.com/user/Snake_Eyes969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Snake_Eyes969" height="30" width="40" /></a>
