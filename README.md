@@ -28,6 +28,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
+
 - 📫 How to reach me **shahriar.ahmod23@gmail.com**
 
 - 🔭 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [Here](https://github.com/ShahriarAhmod/ShahriarAhmod/issues/new) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
