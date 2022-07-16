@@ -90,7 +90,7 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br> 
 -->
-### Support Me
+###  Starring ⭐ Some Of My Repositories & Support Me
 
 <a href="https://www.buymeacoffee.com/ShahriyarAhmod"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
 <br>
