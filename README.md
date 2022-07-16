@@ -38,7 +38,7 @@
 
 -  :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
-- Don't forget to Starring ⭐ Some Of My Repositories.
+- ⭐ Don't forget to Starring Some Of My Repositories.
 
 - 📝 [Resume](https://drive.google.com/file/d/1ahw3RgHRkzpcuQfTh0Klaikd7e4NGl0v/view?usp=sharing) || [CV](https://drive.google.com/file/d/1v7bKDlumfguZHD0UWev7KrsbuNZn9R0c/view?usp=sharing)
 
