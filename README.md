@@ -40,7 +40,7 @@
 
 - ⭐ Don't forget to Starring Some Of My Repositories.
 
-- 📝 [Resume](https://drive.google.com/file/d/1ahw3RgHRkzpcuQfTh0Klaikd7e4NGl0v/view?usp=sharing) || [CV](https://drive.google.com/file/d/1v7bKDlumfguZHD0UWev7KrsbuNZn9R0c/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1d1VqBLqQScSP59Fjb_ErhlHCWwCY7-Jd/view?usp=sharing) || [CV](https://drive.google.com/file/d/1v7bKDlumfguZHD0UWev7KrsbuNZn9R0c/view?usp=sharing)
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
