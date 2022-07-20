@@ -49,7 +49,7 @@
  
  
 </p>
-<img align="right" height="200" width="200" alt="GIF" width="40%" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/source.gif" />
+<img align="right" height="200" width="250" alt="GIF" width="40%" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/source.gif" />
 
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Languages and Tools:</h3>
