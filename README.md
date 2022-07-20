@@ -47,7 +47,7 @@
 <a href="https://linkedin.com/in/shahriar-ahmod-90751a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar-ahmod-90751a216/" height="30" width="40" /></a>
 <a href="https://fb.com/snakeeyes969/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/snakeeyes969/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/shahriar-ahmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shahriar-ahmod" height="30" width="40" /></a> <a href="https://codesandbox.com/shahriarahmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shahriarahmod" height="30" width="40" /></a> <a href="https://discord.gg/y6Kqqpet" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="https://discord.gg/3P93sUFh" height="30" width="40" /></a> <a href="https://reddit.com/user/Snake_Eyes969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Snake_Eyes969" height="30" width="40" /></a>
 
-<br>
+</br>
  
 </p>
 <img align="right" height="220" width="250" alt="GIF" width="40%" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/source.gif" />
@@ -69,7 +69,7 @@
   
  <p align="center">
     <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahriarahmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-  <br/>
+  </br>
   <p align="center">
     <a href="https://github.com/ShahriarAhmod">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarAhmod&text_color=FFFFFF&title_color=0D11174&bg_color=0D1117&langs_count=15&layout=compact&hide_border=true" />
