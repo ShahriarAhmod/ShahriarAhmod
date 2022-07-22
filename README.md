@@ -38,8 +38,6 @@
 
 -  :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
-- ⭐ Don't forget to Starring Some Of My Repositories.
-
 - 📝 [Resume](https://drive.google.com/file/d/1d1VqBLqQScSP59Fjb_ErhlHCWwCY7-Jd/view?usp=sharing) || [CV](https://drive.google.com/file/d/1v7bKDlumfguZHD0UWev7KrsbuNZn9R0c/view?usp=sharing)
 
 <h3 align="center"> Connect with me:</h3>
@@ -97,3 +95,4 @@
 <a href="https://www.buymeacoffee.com/ShahriyarAhmod"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
 <br>
 <!-- ⭐️ From [Shahriar](https://github.com/ShahriarAhmod) -->
+⭐ Don't forget to Starring Some Of My Repositories.
