@@ -8,7 +8,10 @@
 <p align="left">
 <h1 color="red" align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>, I'm Shahriar Ahmod </h1>
 <h3 align="center">Junior Web Developer(MERN)</h3> </p>
- 
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F2F7F6&lines=Junior+Web+Developer(MERN)">
+</p>
+
  
 ## Views and Followers
 
@@ -97,7 +100,5 @@
 <!-- ⭐️ From [Shahriar](https://github.com/ShahriarAhmod) -->
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
-
 </p>
