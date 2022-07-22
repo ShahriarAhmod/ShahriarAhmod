@@ -100,5 +100,5 @@
 <!-- ⭐️ From [Shahriar](https://github.com/ShahriarAhmod) -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
 </p>
