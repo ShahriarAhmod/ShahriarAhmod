@@ -7,7 +7,7 @@
 </a>
 <p align="left">
 <h1 color="red" align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>, I'm Shahriar Ahmod </h1>
-<h3 align="center">Junior Web Developer(MERN)</h3> </p>
+</p>
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F2F7F6&center=true&lines=Junior+Web+Developer(MERN)">
 </p>
