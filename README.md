@@ -98,6 +98,6 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=%E2%AD%90+Don't+forget+to+Starring+Some+Of+My+Repositories.)](https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?multiline=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.)](https://git.io/typing-svg">
 
 </p>
