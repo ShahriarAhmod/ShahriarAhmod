@@ -95,4 +95,7 @@
 <a href="https://www.buymeacoffee.com/ShahriyarAhmod"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
 <br>
 <!-- ⭐️ From [Shahriar](https://github.com/ShahriarAhmod) -->
+
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%E2%AD%90+Don't+forget+to+Starring+Some+Of+My+Repositories.)](https://git.io/typing-svg)
+ </p>
