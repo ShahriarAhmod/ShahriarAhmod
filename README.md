@@ -96,6 +96,8 @@
 <br>
 <!-- ⭐️ From [Shahriar](https://github.com/ShahriarAhmod) -->
 
-<a align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%E2%AD%90+Don't+forget+to+Starring+Some+Of+My+Repositories.)](https://git.io/typing-svg)
- </a>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Jr.%20Fullstack%20Web%20Developer;Learning%20Web%20Development%20Continiously;Learned%205%20Web%20Languages;Completed%204%2B%20Fullstack%20Projects;Also%2050%2B%20Small%20Projects&font=baloo%20da%202&center=true&height=45&color=fa4eab&vCenter=true&size=20">
+</p>">
+</p>
