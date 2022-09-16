@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Js,React**
 
-- 👨‍💻 All of my projects are available at my  [Portfolio  target="blank"](https://shahriarahmod.netlify.app/)
+- 👨‍💻 All of my projects are available at my  [Portfolio](https://shahriarahmod.netlify.app/){:target="_blank" rel="noopener"}
 
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
