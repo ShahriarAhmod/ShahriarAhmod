@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Js,React**
 
-- 👨‍💻 All of my projects are available at my  [Portfolio](https://shahriarahmod.netlify.app/){:target="_blank" rel="noopener"}
+- 👨‍💻 All of my projects are available at my  [Portfolio](https://shahriarahmod.netlify.app/)
 
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
@@ -102,3 +102,5 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
 </p>
+
+[go](http://stackoverflow.com){:target="_blank"}.
