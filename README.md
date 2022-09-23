@@ -41,7 +41,7 @@
 
 -  :computer: &emsp;Most used line of code `console.log("Hello World!")` 
 
-- 📝 [Resume](https://drive.google.com/file/d/1uzLKxX6GHZlMFp4pFVNNQjM4xwEfnvmM/view?usp=sharing) || [CV](https://drive.google.com/file/d/1TcexarsTAOsDvB9cnVTAbzBpYHiDAgTW/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/11bHGj3AkBzsRgCR6D1syuWmvcUWjcTx6/view?usp=sharing) || [CV](https://drive.google.com/file/d/1TcexarsTAOsDvB9cnVTAbzBpYHiDAgTW/view?usp=sharing)
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
