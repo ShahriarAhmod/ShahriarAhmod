@@ -82,9 +82,6 @@
 
 <a href="https://github.com/ShahriarAhmod/github-readme-activity-graph"><img alt="Shahriar Ahmod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahriarAhmod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
- 
-![Metrics](https://metrics.lecoq.io/ShahriarAhmod?template=classic&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=Asia%2FDhaka)
-
 
 <!-- ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
