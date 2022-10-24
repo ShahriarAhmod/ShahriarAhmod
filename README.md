@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Js,React**
 
-- 👨‍💻 All of my projects are available at my  <a href="https://shahriarahmod.vercel.app/" target="_blank"><<Portfolio/>></a>
+- 👨‍💻 All of my projects are available at my  <a href="https://shahriarahmod.vercel.app/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
