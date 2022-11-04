@@ -95,4 +95,5 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
 </p>
-https://discord.c99.nl/widget/theme-2/805074531257417738.png
+
+<img src="https://discord.c99.nl/widget/theme-2/805074531257417738.png">
