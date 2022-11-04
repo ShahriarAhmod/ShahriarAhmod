@@ -92,8 +92,9 @@
 
 <a href="https://www.buymeacoffee.com/ShahriyarAhmod"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
 <br>
+<img align="right" src="https://discord.c99.nl/widget/theme-2/805074531257417738.png">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
 </p>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-2/805074531257417738.png">
+
