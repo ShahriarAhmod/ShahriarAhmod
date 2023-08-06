@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Js,React**
 
-- 👨‍💻 All of my projects are available at Portfolio [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shahriarahmod.vercel.app/)  
+- 👨‍💻 All of my projects are available at Portfolio  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shahriarahmod.vercel.app/)  
 
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,JS.**
 
@@ -87,7 +87,7 @@
 <!-- ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
  --> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shahriarahmod.vercel.app/)  
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ShahriyarAhmod"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
