@@ -95,4 +95,4 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=%E2%AD%90+Don't+forget+to+Starring+;Some+Of+My+Repositories.">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarahmod&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
