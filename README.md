@@ -85,7 +85,7 @@
 
 <a href="https://github.com/ShahriarAhmod/github-readme-activity-graph"><img alt="Shahriar Ahmod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahriarAhmod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Shahriar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahriarAhmod)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.vercel.app/graph?username=ShahriarAhmod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
