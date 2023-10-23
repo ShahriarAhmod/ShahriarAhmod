@@ -83,7 +83,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahriarAhmod&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shahriar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahriarAhmod&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
