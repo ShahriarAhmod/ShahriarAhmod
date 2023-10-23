@@ -67,6 +67,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shahriarahmod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarahmod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarAhmod&layout=compact)
   
  <p align="center">
     <a href="#"><img alt="shahriarahmod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShahriarAhmod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
